@@ -17,3 +17,8 @@ http://www.heise.de/developer/artikel/Qualitaetssicherung-ausgewogen-1792246.htm
 Continues Delivery... dahin soll das ganze dann gehen. Es wäre auch möglich die Arbeit auf das Thema Continues Delivery / Continues Integration zu Erweitern und das Testing nur ein Unterpunkt dessen darstellt.
 
 http://www.heise.de/developer/artikel/Eine-Einfuehrung-in-Continuous-Delivery-Teil-1-Grundlagen-2176380.html
+
+
+
+found:
+http://code.tutsplus.com/tutorials/how-to-test-your-javascript-code-with-qunit--net-9077
