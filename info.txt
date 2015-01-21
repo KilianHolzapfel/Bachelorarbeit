@@ -24,6 +24,8 @@ found:
 
 QUnit Tutorial:
 http://code.tutsplus.com/tutorials/how-to-test-your-javascript-code-with-qunit--net-9077
+http://qunitjs.com/cookbook/
 
 javascript Tutorial:
+http://molily.de/js/
 http://studiy.tu-cottbus.de/projektwiki/_media/projekte:vorkurs-informatik:material:programmieren-lernen-mit-javascript.pdf
