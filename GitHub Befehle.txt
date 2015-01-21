@@ -1,0 +1,4 @@
+Set Name to lable commits:
+	git config --global user.name "YOUR NAME"
+Set eMail associated with commits:
+	git config --global user.email "YOUR EMAIL ADDRESS"

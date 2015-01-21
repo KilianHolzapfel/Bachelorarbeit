@@ -1,0 +1,19 @@
+Populäre JavaScript Testing Frameworks (Beispiele)
+
+http://qunitjs.com/
+http://mochajs.org/
+http://jasmine.github.io/
+http://karma-runner.github.io/0.10/index.html
+http://cukes.info/
+
+
+Artikel zum Einlesen
+
+http://www.heise.de/developer/artikel/End-to-End-Tests-mit-Protractor-2461535.html (AngularJS)
+http://www.heise.de/developer/artikel/Unit-Tests-mit-dem-JavaScript-Framework-Jasmine-1709077.html
+http://www.heise.de/developer/artikel/Qualitaetssicherung-ausgewogen-1792246.html
+
+
+Continues Delivery... dahin soll das ganze dann gehen. Es wäre auch möglich die Arbeit auf das Thema Continues Delivery / Continues Integration zu Erweitern und das Testing nur ein Unterpunkt dessen darstellt.
+
+http://www.heise.de/developer/artikel/Eine-Einfuehrung-in-Continuous-Delivery-Teil-1-Grundlagen-2176380.html
